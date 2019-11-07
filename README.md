@@ -4,6 +4,9 @@ A final project for a security fundamentals course, meant to help us better unde
 
 ### This extension was created for educational purposes ONLY. 
 
+#### http://radicaldad.tk:3000/login
+* To login, email me for credentials
+
 #### This chrome extension, when installed on a victim's browser, will do all of the following:
 * Connect to an attacker controlled server without the victim's knowledge
 * Leak previous browser history, and track all successive browsing data
